@@ -1,5 +1,5 @@
-Запуск
->cmake CMakeList.txt
->make
->./oop
+#Запуск
+#cmake CMakeList.txt
+#make
+#./oop
 
