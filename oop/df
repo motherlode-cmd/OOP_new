@@ -1,0 +1,16 @@
+[INFO]Go to ( 1 : 0 )
+[INFO]Player's Health is 100
+[INFO]Player's Position is 1 row 0 column
+[CHANGED]Event locked cell
+[INFO]Go to ( 0 : 0 )
+[INFO]Player's Health is 100
+[INFO]Player's Position is 0 row 0 column
+[CHANGED]Event Health + 5
+[INFO]Go to ( 0 : 1 )
+[INFO]Player's Health is 105
+[INFO]Player's Position is 0 row 1 column
+[CHANGED]Event locked cell
+[INFO]Go to ( 0 : 2 )
+[INFO]Player's Health is 105
+[INFO]Player's Position is 0 row 2 column
+[CHANGED]Event locked cell
